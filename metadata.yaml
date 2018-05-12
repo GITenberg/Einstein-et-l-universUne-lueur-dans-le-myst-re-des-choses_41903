@@ -1,0 +1,28 @@
+_repo: Einstein-et-l-universUne-lueur-dans-le-myst-re-des-choses_41903
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41903-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nordmann, Charles
+    birthdate: 1881
+    deathdate: 1940
+    gutenberg_agent_id: '41418'
+    url: http://www.gutenberg.org/2009/agents/41418
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2013-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41903'
+  lccn: '22007284'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Science'
+title: 'Einstein et l''univers: Une lueur dans le mystère des choses'
+url: http://www.gutenberg.org/ebooks/41903
